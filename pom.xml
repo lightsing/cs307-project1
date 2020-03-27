@@ -8,5 +8,16 @@
     <artifactId>project1</artifactId>
     <version>0.0.1</version>
 
+    <properties>
+        <postgresql.version>42.2.11</postgresql.version>
+    </properties>
 
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>${postgresql.version}</version>
+        </dependency>
+    </dependencies>
 </project>

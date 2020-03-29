@@ -2,6 +2,8 @@
 
 ## Introduction
 
+[View on GitHub](https://github.com/lightsing/cs307-project1)
+
 To prove DBMS is better than direct file IO. Using this experiment to bench these two method.
 
 ## Experimental design
